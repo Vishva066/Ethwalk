@@ -1,0 +1,19 @@
+{
+    "name": "EthWalk - Road to Devcon",
+    "description": "A workshop for Devcon which is happening in Nov 2024 Bangkok",
+    "image": "ipfs://QmdoSEFUgQq7J6oHC1VtyQ3jsjZQ7snzUTHDeAkGv41tHW",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Workshop"
+        },
+        {
+            "trait_type": "Name",
+            "value": "EthWalk - Road to Devcon"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Blockchain & Web3"
+        }
+    ]
+}
